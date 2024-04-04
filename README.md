@@ -20,6 +20,5 @@ Juan Manuel flores
 Omar Pérez 
 Axel Pereda 
 Gilberto Pupo 
-José Antonio Concepción 
 Samanda de la Caridad 
 Grupo 403
