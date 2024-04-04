@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Integrantes 
+Julio Cesar Enamorado 
+Juan Manuel flores 
+Omar Pérez 
+Axel Pereda 
+Gilberto Pupo 
+José Antonio Concepción 
+Samanda de la Caridad 
+Grupo 403
