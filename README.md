@@ -23,4 +23,5 @@ Gilberto Pupo
 Samanda de la Caridad 
 Grupo 403
 
-https://github.com/ISIL-ESTE/Student-Workflow-Organizer.git
+https://github.com/ISIL-ESTE/Student-Workflow-Organizer.git(Next) 
+https://github.com/juliocec/calculator.git(React) 
