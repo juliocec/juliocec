@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 Integrantes 
 Julio Cesar Enamorado 
-Juan Manuel flores 
+Juan Manuel Flores 
 Omar Pérez 
 Axel Pereda 
 Gilberto Pupo 
 Samanda de la Caridad 
+José Antonio de la Concepción 
 Grupo 403
 
 https://github.com/ISIL-ESTE/Student-Workflow-Organizer.git 
